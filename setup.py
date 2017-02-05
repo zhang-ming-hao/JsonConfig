@@ -9,6 +9,6 @@ setup(
     author='ZhangMingHao',
     author_email='',
     data_files=[
-        ('Lib/site-packages/JsonConfig', ['JsonConfig/readme.md'])
+        ('Lib/site-packages/JsonConfig', ['readme.md'])
     ]
 )
