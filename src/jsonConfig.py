@@ -96,7 +96,7 @@ class JsonConfig(dict):
 if __name__ == "__main__":
 
     # 生成配置文件1
-    # cfg = JsonConfig("test.cfg")
+    # cfg = src("test.cfg")
     # cfg["str"] = "a"
     # cfg["int"] = 1
     # cfg["zh"] = u"中文"

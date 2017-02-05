@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='JsonConfig',
     version='1.0',
-    packages=['JsonConfig'],
+    packages=['src'],
     url='https://github.com/zhang-ming-hao/JsonConfig',
     license='',
     author='ZhangMingHao',
